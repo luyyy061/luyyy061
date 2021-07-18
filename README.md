@@ -1,6 +1,8 @@
 # CA 1: Markdown + GIT
-# *Yuchen Lu
-# *Email ID: LUYYY061
+ *title: CA 1: Markdown + GIT
+ *name: Yuchen Lu
+ *student ID: 110343925
+ *email: luyyy061@mymail.unisa.edu.au
 
 # IT Fundamentals
 
