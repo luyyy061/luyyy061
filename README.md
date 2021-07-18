@@ -6,7 +6,7 @@
 
 # Robot are cool
 
-A [_robot_](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
+![robot](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
 
 # This is a large heading. 
 
