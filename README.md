@@ -1,8 +1,6 @@
 # CA 1: Markdown + GIT
-
-# Yuchen Lu
-#
-#
+# *Yuchen Lu
+# *Email ID: LUYYY061
 
 
 # Dogs are cool
