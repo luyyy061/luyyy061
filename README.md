@@ -7,11 +7,7 @@
 
 # Dogs are cool
 
-A [_dog_](https://en.wikipedia.org/wiki/Dog) is a 4-legged, furry creature that's inherently *amazing*. They have: 
-
- - Fur
- - Legs
- - A tail
+A [_robot dog_](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
 
 # This is a large heading. 
 
