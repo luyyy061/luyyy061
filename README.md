@@ -51,8 +51,9 @@ This is a block quote. It should be in block quotes!
 
 # This is a large heading. 
 
-``` Format this text as code. 
+Format this text as code.
 
+```  
 def foo():
     if not bar:
         return True
